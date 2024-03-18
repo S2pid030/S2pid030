@@ -3,7 +3,7 @@
 Ich mag das Scripten und Programmieren 
 **👩‍🎓**
 
-bisherige erweiterte Grundkenntnisse habe ich in `Java`,`PowerShell`,`Perl`,`PHP`, `MySQL`
+bisherige erweiterte Grundkenntnisse habe ich in `Java`,`PowerShell`,`Perl`,`PHP`, `MySQL`,`HTML`,`CSS`
 
 Wenn ich nicht lerne und Zeilen schreibe genieße ich die Natur.
 
