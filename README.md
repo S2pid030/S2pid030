@@ -1,9 +1,15 @@
-**Hey, ich bin Olaf** und mache gerade eine Ausbildung zum Fachinformatiker für Systemintegration
+# Hey, Olaf hier
+## ich mache gerade eine Ausbildung zum Fachinformatiker für Systemintegration
+
+Ja, ich heisse wirklich Olaf ⛄ und mag auch Umarmungen 😉
+
+Mittlerweile kann ich auf einige Grundkentnisse in  `MySQL`,`HTML`,`CSS`,`Perl` zurückgreifen.
+
+Erweiterte Grundkenntnisse hab ich in `Java`,`PowerShell`,`PHP`
 
 Ich mag das Skripten und Programmieren 
 **👩‍🎓**
 
-bisherige erweiterte Grundkenntnisse habe ich in `Java`,`PowerShell`,`Perl`,`PHP`, `MySQL`,`HTML`,`CSS`
 
 Wenn ich nicht lerne und Zeilen schreibe genieße ich die Natur.
 
